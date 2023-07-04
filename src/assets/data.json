@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "date": "07/06/2022",
+      "title": "TECHIE SPARK",
+      "description": "Unlock the power of knowledge with our comprehensive web app, providing unparalleled tech education. From coding to cybersecurity, our platform equips you with the skills to thrive in the digital era and shape the future of technology.",
+      "url": "https://techie-spark.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "date": "11/08/2022",
+      "title": "MEDIA PORT",
+      "description": "Immerse yourself in a seamless multimedia experience with our advanced video player. Enjoy stunning visuals, crystal-clear sound, and effortless navigation, bringing your favorite movies, series, and videos to life like never before.",
+      "url": "https://media-port.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "-05/10/2022",
+      "title": "XCrypto",
+      "description": "Navigate the world of crypto trading with confidence using our intuitive app guider. Unlock the potential of digital assets, stay updated with real-time market data, and receive expert insights, empowering you to make informed decisions and maximize your trading success.",
+      "url": "https://xcrypto-psi.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "17/11/2022",
+      "title": "MOVIE MANIA",
+      "description": "Step into the world of cinema with our IMDb clone, where movie enthusiasts can explore a vast collection of films, discover hidden gems, and engage in lively discussions, all in one place.",
+      "url": "https://react-cart-eosin.vercel.app",
+      "imgSrc": "https://www.lifewire.com/thmb/RbocY4XParI3QFD_eaqFBRU-SeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/imdb-what-to-watch-d3c2befe37d04ac5b2e22696464a13eb.png"
+    },
+    {
+      "date": "20/04/2023",
+      "title": "LUNCH BOX",
+      "description": "Experience the ultimate culinary convenience with our cutting-edge food delivery app. Indulge in a world of diverse flavors delivered right to your doorstep, making every meal an extraordinary delight.",
+      "url": "https://github.com/B2-Kumar/Lunch-Box",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQLTEpvwGQUxbdRxS4YHEXCYnDVZSmvERhg&usqp=CAU"
+    }
+  ]
+}
