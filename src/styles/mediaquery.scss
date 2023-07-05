@@ -377,10 +377,19 @@
 
 @media screen and (min-aspect-ratio: 2/1) {
   #work {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
   }
 
   #services {
-    margin-top: 1rem;
+    margin-top: 2rem;
+  }
+}
+
+@media screen and (min-aspect-ratio: 2.5) {
+  #work {
+    margin-bottom: 6rem;
+  }
+  #services {
+    margin-top: 6rem;
   }
 }

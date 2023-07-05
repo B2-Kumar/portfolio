@@ -24,12 +24,12 @@ function App() {
     };
   }, [ratio]);
 
-  return ratio < 2.5 ? (
+  return ratio < 3 ? (
     <>
       <HeaderPhone menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Home ratio={ratio} />
-      <div style={{ marginBottom: "100px" }} />
+      <div id="mrgn" style={{ marginBottom: "130px" }} />
       <Work />
       <Timeline />
       <Services />

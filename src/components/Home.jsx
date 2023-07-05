@@ -70,7 +70,7 @@ const Home = ({ ratio }) => {
           <article textContent>
             <p style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
               +
-              {ratio < 2.5 && (
+              {ratio < 3 && (
                 <motion.span whileInView={animationClientsCount} ref={clientCount}></motion.span>
               )}
             </p>
@@ -81,7 +81,7 @@ const Home = ({ ratio }) => {
             <article>
               <p style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                 +
-                {ratio < 2.5 && (
+                {ratio < 3 && (
                   <motion.span ref={projectCount} whileInView={animationProjectsCount}>
                     20
                   </motion.span>
