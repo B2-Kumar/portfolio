@@ -374,3 +374,24 @@
     }
   }
 }
+
+@media screen and (min-aspect-ratio: 2/1) {
+  #work {
+    margin-bottom: 8rem;
+  }
+
+  #experiences {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+
+  #services {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+
+  #testimonial {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+}
