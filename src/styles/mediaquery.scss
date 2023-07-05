@@ -343,3 +343,34 @@
     }
   }
 }
+
+
+@media screen and (max-width: 400px) {
+  #work {
+    padding: 8rem $p_zero;
+    > section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      > article {
+        width: 90%;
+        height: unset;
+        margin-bottom: 3rem;
+      }
+
+      .workItem {
+        height: unset;
+        padding: 1rem;
+        > aside {
+          > p {
+            margin: 0.5rem;
+          }
+          > a {
+            margin: 0.5rem;
+          }
+        }
+      }
+    }
+  }
+}
