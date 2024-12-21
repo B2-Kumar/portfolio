@@ -64,7 +64,7 @@ const Home = ({ ratio }) => {
           <div>
             <a href="mailto:bittukumar1181@gmail.com" target={"blank"}>Hire Me</a>
 
-            <a href="https://drive.google.com/file/d/1FKpXGrG8YBdZba67C62M6eHJlyLUYuAy/view?usp=sharing" target={"blank"}>Resume</a>
+            <a href="https://drive.google.com/file/d/1bRRpmMANP_j9EAA4OVTK1TJvd4LYkvOa/view" target={"blank"}>Resume</a>
           </div>
 
           <article textContent>
